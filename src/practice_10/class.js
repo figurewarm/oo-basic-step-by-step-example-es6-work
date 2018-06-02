@@ -15,8 +15,5 @@ class Class {
     appendMember(student) {
         student.klass = this;
     }
-    isIn() {
-
-    }
 }
 export default Class
